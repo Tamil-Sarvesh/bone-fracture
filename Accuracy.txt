@@ -1,0 +1,11 @@
+Bone fracture detection  Detection Using Image Processing
+
+Algorithm / Model Used: CNN Model architecture
+
+Training accuracy of 98.7%.
+
+Validation accuracy of 100%
+
+
+
+
